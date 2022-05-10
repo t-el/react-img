@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import {useState} from 'react';
 import './App.css';
-import axios from 'axios'
+import axios from 'axios'// no need to axios
 
 function App() {
 
